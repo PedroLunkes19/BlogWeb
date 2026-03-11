@@ -1,0 +1,53 @@
+body{
+    font-family: Arial;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+#perfil{
+    background-color: #F9F8F6;
+    border: 100px solid #F9F8F6;
+    border-radius: 100px;
+    padding: 20px;
+    width: 250px;
+}
+
+#informatica{
+    background-color: #EFE9E3;
+    border: 100px solid #EFE9E3;
+    border-radius: 100px;
+    padding: 20px;
+    width: 250px;
+}
+
+#hobbies{
+    background-color: #D9CFC7;
+    border: 100px solid #D9CFC7;
+    border-radius: 100px;
+    padding: 20px;
+    width: 250px;
+}
+
+
+
+img{
+    display: block;
+    margin: auto;
+}
+
+
+#footer{
+    margin-top: 40px;
+    text-align: center;
+    padding: 20px;
+    background-color: #C9B59C;
+}
